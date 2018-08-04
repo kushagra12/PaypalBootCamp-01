@@ -3,6 +3,7 @@ package com.paypal.utils;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class SowpodsUtils {
 
@@ -46,8 +47,13 @@ public class SowpodsUtils {
         }
 
         SowpodStore.getInstance().setSowpodList(sowpodsList);
-
         return sowpodsList;
+    }
+
+    public static List<String> getSowPodList(int length){
+        List<String> sowPodsList = getSowPodsList();
+
+        return sowPodsList.stream().filter(string -> string.length() == length).collect(Collectors.toList());
     }
 
     public static boolean isWordInSowpods(String s){
@@ -57,11 +63,5 @@ public class SowpodsUtils {
             return true;
 
         return false;
-    }
-
-    public static void main(String[] args){
-        List<String> sowpodsList = getSowPodsList();
-        isWordInSowpods("THE");
-        areOneDiffApart("THE", "TEE");
     }
 }
