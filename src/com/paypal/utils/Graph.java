@@ -12,6 +12,9 @@ public class Graph {
 
     }
 
+    public ArrayList<String> getVertexList(){
+        return vertices;
+    }
     public ArrayList<String> getVertices() {
         return vertices;
     }
@@ -22,7 +25,11 @@ public class Graph {
 
     public void addVertex(String word) {
         if(!vertexExists(word))
-            vertices.add(word);
+            {
+                vertices.add(word);
+                edges.add(new ArrayList<>());
+            }
+
     }
 
     public boolean vertexExists(String word) {
@@ -38,11 +45,24 @@ public class Graph {
         if(!vertexExists(word1)) addVertex(word1);
         if(!vertexExists(word2)) addVertex(word2);
 
-        edges.get(vertices.indexOf(word1)).add(vertices.indexOf(word2));
-        edges.get(vertices.indexOf(word2)).add(vertices.indexOf(word1));
-
+        if(edges.get(vertices.indexOf(word1)).indexOf(vertices.indexOf(word2)) < 0) {
+            edges.get(vertices.indexOf(word1)).add(vertices.indexOf(word2));
+            edges.get(vertices.indexOf(word2)).add(vertices.indexOf(word1));
+        }
     }
 
+    public void printGraph()
+    {
+        for(int i=0;i<edges.size();i++)
+        {
+            ArrayList<Integer> temparray = edges.get(i);
+            for(int j=0;j<temparray.size();j++)
+            {
+                System.out.print(vertices.get(temparray.get(j))+" ");
+            }
+            System.out.println();
 
+        }
+    }
 
 }
