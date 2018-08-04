@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d3d33f-d5bc-45b2-9bc2-42057b968e9b" name="Default" comment="">
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/paypal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/paypal/Main.java" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/paypal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/paypal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/paypal/utils/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/paypal/utils/Graph.java" afterDir="false" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,16 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/paypal/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="330">
               <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-=======
-            <state relative-caret-position="510">
-              <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,7 +28,6 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="SowpodsUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/SowpodsUtils.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,26 +37,11 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#381#382#0" expanded="true" />
                 <element signature="e#408#409#0" expanded="true" />
-=======
-      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
-              <folding>
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,20 +57,6 @@
               </folding>
             </state>
           </provider>
-=======
-      <file leaf-file-name="SowpodsUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/SowpodsUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootcamp-dict.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootcamp-dict.iml">
-          <provider selected="true" editor-type-id="text-editor" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
@@ -124,18 +83,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/.gitignore" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
         <option value="$PROJECT_DIR$/src/com/paypal/utils/DictonaryUtils.java" />
         <option value="$PROJECT_DIR$/src/com/paypal/utils/SowpodsUtils.java" />
         <option value="$PROJECT_DIR$/src/com/paypal/utils/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/paypal/Main.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.gitignore" />
-=======
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
       </list>
     </option>
   </component>
@@ -148,17 +100,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="947" />
-=======
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="957" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,11 +114,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-=======
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,11 +145,6 @@
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,50 +204,29 @@
       <option name="presentableId" value="Default" />
       <updated>1533359846667</updated>
       <workItem from="1533359850519" duration="1158000" />
-<<<<<<< HEAD
       <workItem from="1533362194591" duration="5447000" />
-=======
-      <workItem from="1533363421181" duration="4357000" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
-=======
-    <option name="totallyTimeSpent" value="5515000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="7" />
-=======
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3296593" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32875144" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27147767" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32865733" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3296593" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32865733" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24940476" />
@@ -319,13 +235,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-<<<<<<< HEAD
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977092" />
-=======
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997996" />
-      <window_info id="Favorites" order="2" side_tool="true" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -342,22 +253,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-<<<<<<< HEAD
       <option name="time" value="1" />
-=======
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/paypal/Main.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="17" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -385,7 +281,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-<<<<<<< HEAD
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
@@ -395,59 +290,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
-=======
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
     <entry file="file://$PROJECT_DIR$/bootcamp-dict.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/SowpodsUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
-=======
-        <state relative-caret-position="960">
-          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/paypal/utils/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="47" column="51" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/paypal/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="50" lean-forward="true" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> 67c7b26040e14215e93625a450ffe5c69da99756
           </folding>
         </state>
       </provider>
